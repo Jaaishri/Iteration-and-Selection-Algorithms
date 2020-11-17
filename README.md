@@ -1,1 +1,1 @@
-# teration-and-Selection-Algorithms
+# Iteration-and-Selection-Algorithms
